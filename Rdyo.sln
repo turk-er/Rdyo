@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rdyo", "Rdyo.csproj", "{029851D6-C00B-4437-BFDD-E11544841CAD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Radio1.1", "..\Radio1.1\Radio1.1.vdproj", "{99F6E6A8-B152-4E4C-A831-A3E79E89E0A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029851D6-C00B-4437-BFDD-E11544841CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029851D6-C00B-4437-BFDD-E11544841CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029851D6-C00B-4437-BFDD-E11544841CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029851D6-C00B-4437-BFDD-E11544841CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F6E6A8-B152-4E4C-A831-A3E79E89E0A2}.Debug|Any CPU.ActiveCfg = Debug
+		{99F6E6A8-B152-4E4C-A831-A3E79E89E0A2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7268EAD-6E9A-4CE3-A123-23AB1A3C59FF}
+	EndGlobalSection
+EndGlobal
