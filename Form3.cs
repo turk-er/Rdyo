@@ -19,7 +19,7 @@ namespace Rdyo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            axWindowsMediaPlayer1.URL = "http://37.247.100.104/stream/552/";
+            axWindowsMediaPlayer1.URL = "http://provisioning.streamtheworld.com/pls/ALEM_FMAAC.pls";
         }
 
         private void button2_Click(object sender, EventArgs e)
